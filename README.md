@@ -1,6 +1,5 @@
 # Flashlight
 
-Construindo um app de lanterna para o sistema Android
+Construindo um app de sensor que funciona uma lanterna para o sistema Android
 
-image
-image
+
