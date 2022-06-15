@@ -1,4 +1,4 @@
 # Flashlight
 
-Construindo um app usando o sensor de movimento com React Native
+Construindo um app de lanterna para o sistema Android
 
